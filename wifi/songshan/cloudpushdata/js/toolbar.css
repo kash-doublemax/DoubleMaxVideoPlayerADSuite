@@ -1,0 +1,159 @@
+@charset "UTF-8";
+body {
+	margin: 0px;
+}
+.help_btn {
+	display: block;
+	height: 25px;
+	width: 25px;
+}
+.emptyimg {
+	margin-top: 6px;
+	margin-left: 5px;
+}
+
+
+
+.music_sm_btn {
+	display: block;
+	height: 80px;
+	width: 67px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/sm_btn_group_style_01.png);
+	background-position: 160px top;
+}
+.music_sm_btn:hover {
+	display: block;
+	height: 80px;
+	width: 67px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/sm_btn_group_style_02.png);
+	background-position: 160px top;
+}
+.sms_sm_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/sm_btn_group_style_01.png);
+	background-position: 93px;
+	display: block;
+	height: 80px;
+	width: 64px;
+}
+.sms_sm_btn:hover {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/sm_btn_group_style_02.png);
+	background-position: 93px;
+	display: block;
+	height: 80px;
+	width: 64px;
+}
+.Show_bar_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/sm_btn_group_style_01.png);
+	height: 80px;
+	width: 29px;
+	background-position: 29px top;
+	display: block;
+}
+.Show_bar_btn_l {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	height: 80px;
+	width: 29px;
+	background-position: 29px top;
+	display: block;
+}
+.empty_bg_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	height: 80px;
+	width: 67px;
+	display: block;
+	background-position: 160px bottom;
+}
+.empty_bg_btn:hover {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	height: 80px;
+	width: 67px;
+	background-position: 160px bottom;
+}
+
+
+.yahoo_bg_btn {
+	display: block;
+	height: 80px;
+	width: 64px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	background-position: 93px bottom;
+}
+.yahoo_bg_btn:hover {
+	display: block;
+	height: 80px;
+	width: 64px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	background-position: 93px bottom;
+}
+.music_bg_btn {
+	display: block;
+	height: 75px;
+	width: 64px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	background-position: 93px 155px;
+}
+.music_bg_btn:hover {
+	display: block;
+	height: 75px;
+	width: 64px;
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	background-position: 93px 155px;
+}
+.sms_bg_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	background-position: 160px 155px;
+	display: block;
+	height: 75px;
+	width: 67px;
+}
+.sms_bg_btn:hover {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	background-position: 160px 155px;
+	display: block;
+	height: 75px;
+	width: 67px;
+}
+.tv_bg_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	background-position: 160px top;
+	display: block;
+	height: 80px;
+	width: 67px;
+}
+.tv_bg_btn:hover {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	background-position: 160px top;
+	display: block;
+	height: 80px;
+	width: 67px;
+}
+.guide_bg_btn {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_01.png);
+	background-position: 93px top;
+	display: block;
+	height: 80px;
+	width: 64px;
+}
+.guide_bg_btn:hover {
+	background-image: url(/cloud-push-api.csp?usb=/e/images/bg_btn_group_style_02.png);
+	background-position: 93px top;
+	display: block;
+	height: 80px;
+	width: 64px;
+}
+.sm_bar {
+	display: block;
+	position: absolute;
+}
+.bg_bar {
+	display: block;
+	height: 84px;
+	width: 288px;
+	position: absolute;
+}
+.help_btn2 {
+	display: block;
+	height: 25px;
+	width: 25px;
+	margin-top: 38px;
+}

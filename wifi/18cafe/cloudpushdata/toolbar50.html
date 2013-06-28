@@ -1,0 +1,55 @@
+<html>
+<head>
+<style>
+#wishfidiv {
+	width: 320px;
+	height: 50px;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+.toolbar {
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 320px;
+    height: 50px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+}
+.stage-center {
+  top: 0;
+  left: 0;
+}
+ .stage-right {
+  top: 0;
+  left: 320px;
+}
+.transition {
+  -moz-transition-duration: .5s;
+  -webkit-transition-duration: .5s;
+  -o-transition-duration: .5s;
+  -ms-transition-duration: .5s;
+}
+</style>
+<script src='/cloud-push-api.csp?wapi.js' type='text/javascript'></script>
+<script>
+	var wishfi = new wapi();
+	var frame_width = '320px';
+	var frame_height = '50px';
+	var analytic_domain = 'cloud-push.com';
+	var analytic_root = 'miicasa1';
+</script>
+</head>
+<body style='padding:0px;margin:0px;width:320px;height:50px'>
+   <iframe
+			allowtransparency="true"
+			src="http://cf.doublemax.net/delivery/?iframe&amp;z=481"
+			width="320" height="50"
+			framespacing="0" frameborder="no" scrolling="no">
+		</iframe>
+	</body>
+</html>
